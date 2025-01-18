@@ -2,8 +2,8 @@
 
 1. Clone the repository:
    ```bash 
-   git clone https://github.com/your-username/shikaku-backend.git
-   cd shikaku-backend 
+   git clone https://github.com/Nishtha305/shikaku-game.git
+   cd shikaku-game 
 2. Install Dependencies:
    ```bash 
    npm install 
