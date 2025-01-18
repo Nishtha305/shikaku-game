@@ -16,7 +16,7 @@ The server will run at http://localhost:3000
 
 1. Initialize Game
 - Method: ```POST```
-- Endpoint: ```/api/game/initialize```
+- Endpoint: ```api/games/initialize```
 - Body:
    ```bash
    {
@@ -25,7 +25,7 @@ The server will run at http://localhost:3000
    }
 2. Generate Rectangles
 - Method: ```POST```
-- Endpoint: ```/api/game/generate-rectangles```
+- Endpoint: ```/api/games/generate-rectangles```
 - Body:
    ```bash
    {
