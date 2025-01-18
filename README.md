@@ -65,7 +65,7 @@ The server will run at http://localhost:3000
 - Query Params: ```boardId=123456789``` 
 8. End Timer
 - Method: ```POST```
-- Endpoint: ```/api/timers/end```
+- Endpoint: ```/api/timer/end```
 - Body:
    ```bash
    {
